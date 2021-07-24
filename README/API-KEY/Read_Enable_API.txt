@@ -1,0 +1,4 @@
+Example :
+$env:GOOGLE_APPLICATION_CREDENTIALS="D:\College\ProjectSwerWords\Program\WebApplication\README\API-KEY\DetectionSwearwords-a9a118f3cadd.json"
+
+set GOOGLE_APPLICATION_CREDENTIALS="D:\College\ProjectSwerWords\Program\WebApplication\README\API-KEY\DetectionSwearwords-a9a118f3cadd.json"
